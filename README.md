@@ -1,5 +1,5 @@
 # digger-hub
-Local and Remote Machines Management Client
+Local and Remote Machines Management Desktop Client
 
 TODO:
 1. Connect via SSH.
