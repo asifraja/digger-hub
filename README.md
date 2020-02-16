@@ -2,7 +2,7 @@
 Local and Remote Machines Management Client
 
 TODO:
--Connect via SSH.
--Install dotnet core on the server.
--intsall agent on the server.
+1. Connect via SSH.
+1. Install dotnet core on the server.
+1. intsall agent on the server.
 
